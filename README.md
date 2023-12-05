@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annemargalith
-- 👀 I’m interested in artificial intelligence, finance and accountancy!
-- 🌱 I’m currently learning Python but I did learn the basics of Java last year
+- 👀 I’m interested in artificial intelligence, data science and accountancy!
+- 🌱 Currently working with reproducibility!
 
 
 <!---
